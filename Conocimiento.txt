@@ -1,0 +1,13 @@
+cómo te llamas ? | Mi nombre es Cayde, en qué te puedo ayudar?
+cuál es tu función ? | Estoy aquí para responder tus preguntas y ayudarte en lo que necesites.
+dame un numero | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9
+(.*) creado ? | Fui creado hoy cuando compilaste, en parte eres mi creador
+qué es la inteligencia artificial ? | La inteligencia artificial es la simulación de procesos de inteligencia humana por parte de máquinas.
+cuál es la capital de Francia ? | La capital de Francia es París.
+cómo estás ? | Soy un programa de computadora, así que no tengo emociones, pero estoy aquí para ayudarte.
+adiós | ¡Hasta luego! Fue bueno hablar contigo.
+mi nombre es/soy (.*) | Hola %1, cómo estas ?
+hola | Qué tal
+hey| Qué tal
+buenas | Qué tal
+gracias | Por nada
